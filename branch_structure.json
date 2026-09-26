@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-567-feat-agent-enforce-per-agent-cpu-and-network",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-567-feat-agent-enforce-per-agent-cpu-and-network": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-567-feat-agent-enforce-per-agent-cpu-and-network",
+    "origin"
+  ]
+}
